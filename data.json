@@ -9,16 +9,16 @@
     ],
     "songs": [
         {
-            "song": "Calm Down Pt 2",
-            "artist": "YTB Fatt",
-            "url": "https://youtu.be/lBsoygvhppE?si=QqZqMRXogt4Rp1wN"
+            "song": "One Chance",
+            "artist": "G Herbo",
+            "url": "https://www.youtube.com/watch?v=G2JMTwqD170&list=RDG2JMTwqD170&start_radio=1"
         }
     ],
     "store": {
         "type_text": "",
         "description": "Check out exclusive in-game packages designed to level up your experience while helping support the continued growth and quality of Reload",
-        "url": "https://thehaven.tebex.io/",
-        "title": "Haven Store",
+        "url": "",
+        "title": "",
         "type": "1.0 Sale Live Now!"
     }
 }
